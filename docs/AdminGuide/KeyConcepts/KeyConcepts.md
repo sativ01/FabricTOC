@@ -1,6 +1,6 @@
 # Key Concepts
 
-This section contains the Hyperledger Fabric **concepts** that you'll find really helpful if you're an Administrator. There are lots of new ideas to understand, but each one is quite straightforward, and you'll that each idea falls under one of three categories, which makes it easy to understand why a concept exists.
+This section contains the Hyperledger Fabric **concepts** that you'll find really helpful if you're an Administrator. There are lots of new ideas to understand, but each one is quite straightforward, and you'll see that each idea falls under one of three categories, which makes it easy to understand why a concept exists.
 
 If you're new to blockchain, it probably makes sense to read all of this material, but don't worry if you don't understand every detail - you'll be able to solidify your knowledge with the [DRIVENET sample](../DriveNetSample/DriveNetSample.md).
 
